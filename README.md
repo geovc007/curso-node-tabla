@@ -1,0 +1,4 @@
+# Notas:
+
+
+Opciones en node
